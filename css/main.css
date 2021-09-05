@@ -782,7 +782,7 @@ body > footer .copyrights {
   margin: 5px 0 25px;
 }
 
-.block-title h3 span {
+.block-title h3 span, h4 span {
   color: #2eca7f;
 }
 
@@ -933,7 +933,7 @@ body > footer .copyrights {
   margin-bottom: 10px;
 }
 
-.start-page-content .page-content .download-resume {
+.start-page-content .page-content .download-cv {
   margin-top: 15px;
 }
 
@@ -1118,7 +1118,7 @@ body > footer .copyrights {
 }
 /* Skills */
 
-.download-resume {
+.download-cv {
   margin-top: 50px;
 }
 
